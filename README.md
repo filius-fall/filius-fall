@@ -18,7 +18,23 @@
 
 ![Filius-fall's Github viewa](https://komarev.com/ghpvc/?username=filius-fall)
 
-<!---
-filius-fall/filius-fall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filius-fall)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Filius-fall's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filius-fall)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 👨‍💻 This week, I spent my time on:
+[![Filius-fall's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filius-fall&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+## 🗂️ Recent Projects
+
+<a href="https://github.com/filius-fall/express-katas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filius-fall&repo=express-katas&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Express Katas" />
+</a>
+
+<a href="https://github.com/filius-fall/mynotes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filius-fall&repo=mynotes&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="notes" />
+</a>
