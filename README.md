@@ -1,5 +1,4 @@
 <p align="center">
-	<a href="https://twitter.com/filius_fall"><img src="imgs/twitter.svg" alt="Twitter"></a>
 	<a href="https://github.com/filius-fall"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/sreeram-ambalam-331606178"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
